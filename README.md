@@ -38,16 +38,16 @@ NumPy (математические вычисления)
 Для локального запуска проекта:
 
 1. Клонировать репозиторий
-git clone https://github.com/your-username/ecorisk-map.git(тут поменяю ссылку)
+git clone https://github.com/CandyClauds/Toxic_map.git
 
 2. Перейти в директорию проекта
-cd ecorisk-map
+cd Toxic_map
 
 3. Установить зависимости
 pip install -r requirements.txt
 
 5. Запустить приложение
-streamlit run app.py
+streamlit run toxic_map.py
 
 Приложение будет доступно по адресу: http://localhost:8501
 
